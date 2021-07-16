@@ -1,1 +1,1 @@
-The solution to various exercises given in the qiskit textbook.
+My solutions to various unsolved exercises given in the qiskit textbook.
