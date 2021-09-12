@@ -36,7 +36,7 @@ plot_bloch_vector_spherical(a)
 Plotting 1/sqrt(2)[|0> - i|1>]
 Comparing we get (theta) = pi/2 and (phi) = -pi/2
 """
-b = [pi/2, -pi/2, 1]
+b = [pi/2, -pi/4, 1]
 plot_bloch_vector_spherical(b)
 
 """
