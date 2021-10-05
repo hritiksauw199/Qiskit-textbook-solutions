@@ -1,6 +1,5 @@
-My solutions to various unsolved exercises given in the qiskit textbook.
+# My solutions to various unsolved exercises given in the qiskit textbook.
 
-/
 
 # Installing the Qiskit Textbook Package
 
